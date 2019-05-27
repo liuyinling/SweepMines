@@ -1,3 +1,5 @@
+//Class Piece
+//
 class Piece{
 	
 	int l;
