@@ -1,3 +1,5 @@
+//class Board
+
 class Board{
 	int [][] world;
 	Piece [] pList;
